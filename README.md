@@ -17,4 +17,4 @@ This is a **Student Library Management System** built using **Spring Boot** and 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/student-library-management-system.git
+   git clone https://github.com/pratyush7625077/student-library-management-system.git
